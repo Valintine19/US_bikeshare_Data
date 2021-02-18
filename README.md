@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+Project date: 08 February 2021
+README creation: 17 February 2021
 
 ### Project Title
-Replace the Project Title
+Udacity US Bikeshare Data - Python
 
 ### Description
-Describe what your project is about and what it does
+The objective of this project is to allow users access rideshare data from three major cities: New York City, Chicago, and Washington. The accessible information includes but is not limited to: age, gender, and bike rental location data.
 
 ### Files used
-Include the files used
+The data provided by udacity includes files new_york_city.csv, chicago.csv, and washington.csv to run the program
+The program workspace was provided by the udacity Programming for Data Science with Python nanodegree, code editing was completed with the desktop text editor Atom from atom.io 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/course-collaboration-travel-plans.git
 
+https://github.com/udacity/pdsnd_github.git
